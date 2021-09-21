@@ -10,7 +10,6 @@ if (CHANGE ME: condition # 1) {
     //Add event below
 } else {
     //Add event below
-}
 
 if (CHANGE ME: condition # 2) {
     //Add event below
